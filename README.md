@@ -2,8 +2,8 @@
   By: Katie R-A
   
   ## Description
-  Creating a readme via Node.js and Inquirer (npm)
-  This repo includes a demonstration video so you can see how it works.
+  - Creating a readme via Node.js and Inquirer (npm).
+  - This repo includes a demonstration video so you can see how it works.
   
   ## Table of Contents
   1. [Installation Instructions](#Installation-Instructions)
